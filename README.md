@@ -1,7 +1,8 @@
 <div align="center">
   <img src="assets/banner.svg" alt="Awesome API Discovery Platform Banner" width="100%" />
 </div>
-# Awesome-Api-Discovery-Platform
+# 🚀 Awesome API Discovery Platform
+> A curated list of awesome API discovery platforms, tools, and resources for comprehensive API security and observability.
 
 ## 🔍 Similar Projects to API Discovery Platforms
 
