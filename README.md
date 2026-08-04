@@ -8,18 +8,18 @@ Below is a **curated list** of notable platforms and their open-source equivalen
 
 ## 🏢 SaaS / Hosted Platforms
 
-| Platform | Description | Pricing | Free Tier Limit |
-| :--- | :--- | :--- | :--- |
-| **[Noname Security](https://nonamesecurity.com/)** (Akamai) | Comprehensive API security platform with strong discovery, inventory, and runtime protection. | Custom Quotes | No Free Tier |
-| **[Salt Security](https://salt.security/)** | API security platform focused on discovery, threat detection, and protection using behavioral analysis. | Custom Quotes | No Free Tier (Free assessment available) |
-| **[Traceable AI](https://www.traceable.ai/)** | API security and observability platform with discovery and threat detection capabilities. | Free / Paid plans | Free Tier available ($0/endpoint/month) |
-| **[42Crunch](https://42crunch.com/)** | API security platform emphasizing contract security, OpenAPI analysis, and shift-left protection. | Freemium / Paid plans | Free Tier: 100 audits & scans / month |
-| **[Postman API Network](https://www.postman.com/)** | Popular platform for API design, documentation, discovery, and collaboration. | Free / Paid plans | Free Tier: Single user only (No Private network) |
-| **[SmartBear SwaggerHub](https://swagger.io/tools/swaggerhub/)** | Popular platform for API design, documentation, discovery, and collaboration. | Free / Paid plans | Free Tier: Basic features, limited projects |
-| **[Akita Software](https://www.akitasoftware.com/)** | Specialized API discovery, security, and observability solutions. | N/A (Acquired by Postman) | N/A |
-| **[FireTail](https://www.firetail.io/)** | Specialized API discovery, security, and observability solutions. | Free / Paid plans | Free Tier: Up to 5 APIs, 1M logs/month |
-| **[Cloudflare API Discovery](https://www.cloudflare.com/)** | Specialized API discovery, security, and observability solutions. | Enterprise Plan Only | No Free Tier |
-| **[Cequence](https://www.cequence.ai/)** | Specialized API discovery, security, and observability solutions. | Custom Quotes | No Free Tier (Free assessments available) |
+| Platform | Description | Pricing | Free Tier Limit | Company Valuation |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Cloudflare API Discovery](https://www.cloudflare.com/)** | Specialized API discovery, security, and observability solutions. | Enterprise Plan Only | No Free Tier | ~ Billion |
+| **[Postman API Network](https://www.postman.com/)** | Popular platform for API design, documentation, discovery, and collaboration. | Free / Paid plans | Free Tier: Single user only (No Private network) | ~.6 Billion |
+| **[SmartBear SwaggerHub](https://swagger.io/tools/swaggerhub/)** | Popular platform for API design, documentation, discovery, and collaboration. | Free / Paid plans | Free Tier: Basic features, limited projects | ~.0 Billion |
+| **[Salt Security](https://salt.security/)** | API security platform focused on discovery, threat detection, and protection using behavioral analysis. | Custom Quotes | No Free Tier (Free assessment available) | ~.4 Billion |
+| **[Cequence](https://www.cequence.ai/)** | Specialized API discovery, security, and observability solutions. | Custom Quotes | No Free Tier (Free assessments available) | ~ Million |
+| **[Noname Security](https://nonamesecurity.com/)** (Akamai) | Comprehensive API security platform with strong discovery, inventory, and runtime protection. | Custom Quotes | No Free Tier | ~ Million |
+| **[Traceable AI](https://www.traceable.ai/)** | API security and observability platform with discovery and threat detection capabilities. | Free / Paid plans | Free Tier available ($0/endpoint/month) | ~ Million |
+| **[42Crunch](https://42crunch.com/)** | API security platform emphasizing contract security, OpenAPI analysis, and shift-left protection. | Freemium / Paid plans | Free Tier: 100 audits & scans / month | ~ Million |
+| **[FireTail](https://www.firetail.io/)** | Specialized API discovery, security, and observability solutions. | Free / Paid plans | Free Tier: Up to 5 APIs, 1M logs/month | ~ Million |
+| **[Akita Software](https://www.akitasoftware.com/)** | Specialized API discovery, security, and observability solutions. | N/A (Acquired by Postman) | N/A | Acquired |
 
 ## 🔓 Open-Source Software
 
