@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="assets/banner.svg" alt="Awesome API Discovery Platform Banner" width="100%" />
+</div>
 # Awesome-Api-Discovery-Platform
 
 ## Similar Projects to API Discovery Platforms
