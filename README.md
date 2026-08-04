@@ -24,9 +24,9 @@ Below is a **curated list** of notable platforms and their open-source equivalen
 ## 🔓 Open-Source Software
 
 ### API Scanning, Testing & Discovery Tools
-- **[OWASP ZAP](https://www.zaproxy.org/)** — The leading open-source DAST tool with strong API support. Imports OpenAPI/Swagger specifications, actively scans REST and GraphQL APIs for vulnerabilities (including OWASP API Top 10 issues), and can be used for discovery and security testing in CI/CD.
-- **[Nuclei](https://github.com/projectdiscovery/nuclei)** — Fast, template-based vulnerability scanner from ProjectDiscovery. Includes extensive community templates for API security issues (BOLA/IDOR, GraphQL, JWT problems, exposed endpoints, etc.) and is widely used for discovery and continuous scanning.
-- **[APIKit](https://github.com/API-Security/APIKit)** — Open-source Burp Suite extension focused on API discovery. Detects and parses API documentation (Swagger/OpenAPI, GraphQL, Spring Actuator, WSDL, etc.) from traffic and turns it into testable requests.
+- **[Nuclei](https://github.com/projectdiscovery/nuclei)** [![Stars](https://img.shields.io/github/stars/projectdiscovery/nuclei?style=social&color=white)](https://github.com/projectdiscovery/nuclei/stargazers) — Fast, template-based vulnerability scanner from ProjectDiscovery. Includes extensive community templates for API security issues (BOLA/IDOR, GraphQL, JWT problems, exposed endpoints, etc.) and is widely used for discovery and continuous scanning.
+- **[OWASP ZAP](https://www.zaproxy.org/)** [![Stars](https://img.shields.io/github/stars/zaproxy/zaproxy?style=social&color=white)](https://github.com/zaproxy/zaproxy/stargazers) — The leading open-source DAST tool with strong API support. Imports OpenAPI/Swagger specifications, actively scans REST and GraphQL APIs for vulnerabilities (including OWASP API Top 10 issues), and can be used for discovery and security testing in CI/CD.
+- **[APIKit](https://github.com/API-Security/APIKit)** [![Stars](https://img.shields.io/github/stars/API-Security/APIKit?style=social&color=white)](https://github.com/API-Security/APIKit/stargazers) — Open-source Burp Suite extension focused on API discovery. Detects and parses API documentation (Swagger/OpenAPI, GraphQL, Spring Actuator, WSDL, etc.) from traffic and turns it into testable requests.
 
 ### Specification, Catalog & Code-Based Discovery
 - **OpenAPI / Swagger tooling ecosystem** — Tools such as Swagger Editor, OpenAPI Generator, and Spectral (for linting) help teams document and discover APIs from specifications.
