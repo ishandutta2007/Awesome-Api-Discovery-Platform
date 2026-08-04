@@ -1,6 +1,6 @@
 # Awesome-Api-Discovery-Platform
 
-# Similar Projects to API Discovery Platforms
+## Similar Projects to API Discovery Platforms
 
 **API Discovery Platforms** automatically find, inventory, catalog, and often secure APIs across an organization’s environment. They detect shadow, zombie, and rogue APIs by analyzing traffic, code, gateways, and runtime behavior, then help teams maintain an accurate API inventory and apply security controls. Leading commercial platforms include 42Crunch, Noname Security, Traceable AI, Salt Security, Postman API Network, SmartBear SwaggerHub, Akita, FireTail, Cloudflare API Discovery, and Cequence.
 
@@ -8,12 +8,18 @@ Below is a **curated list** of notable platforms and their open-source equivalen
 
 ## 🏢 SaaS / Hosted Platforms
 
-- **[Noname Security](https://nonamesecurity.com/)** (now part of Akamai) — Comprehensive API security platform with strong discovery, inventory, and runtime protection.
-- **[Salt Security](https://salt.security/)** — API security platform focused on discovery, threat detection, and protection using behavioral analysis.
-- **[Traceable AI](https://www.traceable.ai/)** — API security and observability platform with discovery and threat detection capabilities.
-- **[42Crunch](https://42crunch.com/)** — API security platform emphasizing contract security, OpenAPI analysis, and shift-left protection.
-- **[Postman API Network](https://www.postman.com/)** & **[SmartBear SwaggerHub](https://swagger.io/tools/swaggerhub/)** — Popular platforms for API design, documentation, discovery, and collaboration.
-- **[Akita](https://www.akitasoftware.com/)**, **[FireTail](https://www.firetail.io/)**, **[Cloudflare API Discovery](https://www.cloudflare.com/)**, **[Cequence](https://www.cequence.ai/)** — Specialized API discovery, security, and observability solutions.
+| Platform | Description | Pricing | Free Tier Limit |
+| :--- | :--- | :--- | :--- |
+| **[Noname Security](https://nonamesecurity.com/)** (Akamai) | Comprehensive API security platform with strong discovery, inventory, and runtime protection. | Custom Quotes | No Free Tier |
+| **[Salt Security](https://salt.security/)** | API security platform focused on discovery, threat detection, and protection using behavioral analysis. | Custom Quotes | No Free Tier (Free assessment available) |
+| **[Traceable AI](https://www.traceable.ai/)** | API security and observability platform with discovery and threat detection capabilities. | Free / Paid plans | Free Tier available ($0/endpoint/month) |
+| **[42Crunch](https://42crunch.com/)** | API security platform emphasizing contract security, OpenAPI analysis, and shift-left protection. | Freemium / Paid plans | Free Tier: 100 audits & scans / month |
+| **[Postman API Network](https://www.postman.com/)** | Popular platform for API design, documentation, discovery, and collaboration. | Free / Paid plans | Free Tier: Single user only (No Private network) |
+| **[SmartBear SwaggerHub](https://swagger.io/tools/swaggerhub/)** | Popular platform for API design, documentation, discovery, and collaboration. | Free / Paid plans | Free Tier: Basic features, limited projects |
+| **[Akita Software](https://www.akitasoftware.com/)** | Specialized API discovery, security, and observability solutions. | N/A (Acquired by Postman) | N/A |
+| **[FireTail](https://www.firetail.io/)** | Specialized API discovery, security, and observability solutions. | Free / Paid plans | Free Tier: Up to 5 APIs, 1M logs/month |
+| **[Cloudflare API Discovery](https://www.cloudflare.com/)** | Specialized API discovery, security, and observability solutions. | Enterprise Plan Only | No Free Tier |
+| **[Cequence](https://www.cequence.ai/)** | Specialized API discovery, security, and observability solutions. | Custom Quotes | No Free Tier (Free assessments available) |
 
 ## 🔓 Open-Source Software
 
